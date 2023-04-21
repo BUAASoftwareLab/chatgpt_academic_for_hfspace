@@ -55,6 +55,7 @@ coverage.xml
 *.pot
 github
 .github
+!/.github/workflows
 TEMP
 TRASH
 
